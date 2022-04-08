@@ -1,0 +1,19 @@
+{
+  "name": "map-points",
+  "version": "0.1.0",
+  "description": "Server side map points web service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^3.12.0",
+    "dotenv": "^16.0.0",
+    "fastify": "^3.28.0"
+  },
+  "devDependencies": {
+    "prisma": "^3.12.0"
+  }
+}
